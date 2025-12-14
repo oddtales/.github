@@ -1,19 +1,80 @@
-## Hello you...
-Welcome to the official github for Odd Tales, the creative studio behind the awaited game "The Last Night."
+<!--
+Odd Tales — GitHub Org Profile README
+Path: /.github/profile/README.md
+-->
 
-![Odd Tales Logo](profile/logo_oddtales_4k.png)
+<p align="center">
+  <img src="logo_oddtales_4k.png" alt="Odd Tales logo" width="640" />
+</p>
 
-## About Us
-Odd Tales is a small, remote-first independent studio based in London. We specialize in creating unique, atmospheric games that explore the intersection of technology & humanity and the trajectory of civilization. Our goal is to push the boundaries off the medium, to elevate pop culture with new, meaningful and truthful angles for underserved thematics, and to tell stories that resonate with players long after the credits have rolled.
+<h1 align="center">Odd Tales</h1>
 
-## Games
-Our flagship game, "The Last Night," is a 2.5D cinematic platformer set in a science fiction world. Players take on the role of Charlie, a man living in a time when humanity has automated every single aspect of life, to the point that there is very little work remaining for humans. The game was revealed in 2017 and received widespread critical acclaim, and has been on preproduction since.
+<p align="center">
+  Independent creative studio in London.</br>
+	We create making unusual, atmospheric games with ambitious tech & relevant stories.
+</p>
 
-![The Last Night Logo](profile/TheLastNight_logo_4k.jpg)
+<p align="center">
+  <a href="https://oddtales.net">Website</a> •
+  <a href="https://oddtales.net/blog/">Blog</a> •
+  <a href="https://x.com/oddtalesgames">@oddtalesgames</a> •
+	<a href="https://x.com/tln_game">@tln_game</a> •
+  <a href="https://discord.gg/thelastnight">Discord</a> •
+  <a href="https://store.steampowered.com/app/612400/The_Last_Night/">Steam</a>
+</p>
+
+## Hello!
+
+- **Players** → Wishlist **The Last Night** on Steam: https://store.steampowered.com/app/612400/The_Last_Night/
+- **Press / partners / business** → `hello@oddtales.net`
+- **Streamers / YouTubers (keys before launch)** → https://airtable.com/shrEy8A1f9pmQGekt
+- **Developers / tech artists** → see **Tech index** below
+
+
+## Why this GitHub exists
+This GitHub is here to host **selective, shareable artifacts** when we have the bandwidth: small tools, isolated experiments, reference implementations, and talk materials — things that are useful outside our production codebase.
+
+
+What you should **not** expect here:
+- full production game code
+- proprietary pipelines, licensed tech/assets, platform SDK integrations
+
+
+## Game: The Last Night
+<img src="TheLastNight_logo_4k.jpg" alt="The Last Night logo" width="640" />
+<a href="https://oddtales.net/thelastnight/">The Last Night</a> is a 2.5D cinematic platformer set later this century, in a world where AI has automated nearly every aspect of life.
+
+Players control **Charlie**, a young man struggling to accept that the civilization he grew up in has faded, replaced by a new order optimized for leisure, comfort, and entertainment.
+
+- Trailer (E3 2017): https://youtu.be/pupdeq1MoVw?si=gJkVHLyhbNPw9CfF
+
 
 ## Publications
-We're looking to publish some of our findings & technology here for you to use.
+- **2024 — The Last Night’s Game Architecture (talk + slides)**  
+  https://oddtales.net/blog/2024-the-last-night-game-architecture
 
-If you'd like to stay up-to-date on our latest projects, follow us on [Twitter](https://twitter.com/oddtalesgames?lang=en).
+- Blog:
+  https://oddtales.net/blog/
 
-Thanks for your interest in Odd Tales!
+## Toolchain
+- **Engine / runtime:** Unity
+- **Shaders:** Amplify Shader Editor
+- **Art:** Aseprite, Photoshop, Blender
+- **Narrative:** Ink
+- **Production / ops:** Notion, Airtable, Slack, Pitch
+
+## Press & brand assets
+You can find our logos, screenshots, and more here:
+- Odd Tales: https://oddtales.net/presskit
+- The Last Night: https://oddtales.net/thelastnight/presskit
+
+## Licensing & trademarks
+Each repository defines its own license (see that repo’s `LICENSE`).
+
+Unless explicitly stated otherwise:
+- **Code** is licensed per the repository license - usually, free to use / modify in your projects.
+- **Odd Tales**, **The Last Night**, and associated logos/art are trademarks and copyrighted assets of Odd Tales. Brand usage isn’t granted by default.
+
+---
+
+Thanks for stopping by.
