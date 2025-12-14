@@ -32,8 +32,7 @@ Path: /.github/profile/README.md
 
 
 ## Why this GitHub exists
-This GitHub is here to host **selective, shareable artifacts** when we have the bandwidth: small tools, isolated experiments, reference implementations, and talk materials — things that are useful outside our production codebase.
-
+This GitHub is here to host **selective, shareable artifacts** when we have the bandwidth: in-house 2.5D pixel art tools, reference implementations, and talk materials. Anything that can be useful outside our production codebase.
 
 What you should **not** expect here:
 - full production game code
@@ -41,23 +40,22 @@ What you should **not** expect here:
 
 
 ## Game: The Last Night
-<img src="TheLastNight_logo_4k.jpg" alt="The Last Night logo"/>
 <a href="https://oddtales.net/thelastnight/">The Last Night</a> is a 2.5D cinematic platformer set later this century, in a world where AI has automated nearly every aspect of life.
 
 Players control **Charlie**, a young man struggling to accept that the civilization he grew up in has faded, replaced by a new order optimized for leisure, comfort, and entertainment.
 
 - Trailer (E3 2017): https://youtu.be/pupdeq1MoVw?si=gJkVHLyhbNPw9CfF
 
+<img src="TheLastNight_logo_4k.jpg" alt="The Last Night logo"/>
 
-## Publications
+## Tech index
+You can find our [publications](https://oddtales.net/blog/) & various tech repos here for convenience.
+
 - **2024 — The Last Night’s Game Architecture (talk + slides)**  
   https://oddtales.net/blog/2024-the-last-night-game-architecture
 
-- Blog:
-  https://oddtales.net/blog/
-
 ## Toolchain
-Our code & tools is centered around following ecosystem:
+Our code & tools are centered around our ecosystem:
 - **Engine / runtime:** Unity
 - **Shaders:** Amplify Shader Editor
 - **Art:** Aseprite, Photoshop, Blender
