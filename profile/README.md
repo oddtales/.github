@@ -11,7 +11,7 @@ Path: /.github/profile/README.md
 
 <p align="center">
 	Independent creative studio in London.</br>
-	We create making unusual, atmospheric games with ambitious tech & relevant stories.
+	We're making unusual, atmospheric games with ambitious tech & relevant stories.
 </p>
 
 <p align="center">
