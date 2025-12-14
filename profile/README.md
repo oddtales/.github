@@ -57,6 +57,7 @@ Players control **Charlie**, a young man struggling to accept that the civilizat
   https://oddtales.net/blog/
 
 ## Toolchain
+Our code & tools is centered around following ecosystem:
 - **Engine / runtime:** Unity
 - **Shaders:** Amplify Shader Editor
 - **Art:** Aseprite, Photoshop, Blender
