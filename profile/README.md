@@ -44,7 +44,7 @@ What you should **not** expect here:
 
 Players control **Charlie**, a young man struggling to accept that the civilization he grew up in has faded, replaced by a new order optimized for leisure, comfort, and entertainment.
 
-- Trailer (E3 2017): https://youtu.be/pupdeq1MoVw?si=gJkVHLyhbNPw9CfF
+- Trailer (E3 2017): https://youtu.be/pupdeq1MoVw
 
 <img src="TheLastNight_logo_4k.jpg" alt="The Last Night logo"/>
 
