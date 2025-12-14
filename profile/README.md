@@ -10,7 +10,7 @@ Path: /.github/profile/README.md
 <h1 align="center">Odd Tales</h1>
 
 <p align="center">
-  Independent creative studio in London.</br>
+	Independent creative studio in London.</br>
 	We create making unusual, atmospheric games with ambitious tech & relevant stories.
 </p>
 
@@ -39,7 +39,7 @@ What you should **not** expect here:
 - proprietary pipelines, licensed tech/assets, platform SDK integrations
 
 
-## Game: The Last Night
+## Our debut title: The Last Night
 <a href="https://oddtales.net/thelastnight/">The Last Night</a> is a 2.5D cinematic platformer set later this century, in a world where AI has automated nearly every aspect of life.
 
 Players control **Charlie**, a young man struggling to accept that the civilization he grew up in has faded, replaced by a new order optimized for leisure, comfort, and entertainment.
