@@ -4,7 +4,7 @@ Path: /.github/profile/README.md
 -->
 
 <p align="center">
-  <img src="logo_oddtales_4k.png" alt="Odd Tales logo" width="640" />
+  <img src="logo_oddtales_4k.png" alt="Odd Tales logo"/>
 </p>
 
 <h1 align="center">Odd Tales</h1>
@@ -41,7 +41,7 @@ What you should **not** expect here:
 
 
 ## Game: The Last Night
-<img src="TheLastNight_logo_4k.jpg" alt="The Last Night logo" width="640" />
+<img src="TheLastNight_logo_4k.jpg" alt="The Last Night logo"/>
 <a href="https://oddtales.net/thelastnight/">The Last Night</a> is a 2.5D cinematic platformer set later this century, in a world where AI has automated nearly every aspect of life.
 
 Players control **Charlie**, a young man struggling to accept that the civilization he grew up in has faded, replaced by a new order optimized for leisure, comfort, and entertainment.
